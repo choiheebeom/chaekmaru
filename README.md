@@ -43,6 +43,7 @@
 
 
 #### 참조
+https://seeoya.github.io/chaekmaru/
 * 시연 영상
 https://youtu.be/6F3A_n35_us?si=r9ZkiLdIgt2Yq-mt
 
